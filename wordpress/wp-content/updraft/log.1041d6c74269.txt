@@ -1,0 +1,317 @@
+0000.009 (0) Opened log file at time: Mon, 16 Dec 2019 10:54:12 +0000 on http://192.168.33.15/projetevaluation/wordpress
+0000.013 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.21 WP: 5.3 PHP: 7.4.0 (apache2handler, Linux ubuntu-xenial 4.4.0-165-generic #193-Ubuntu SMP Tue Sep 17 17:42:52 UTC 2019 x86_64) MySQL: 5.7.28-0ubuntu0.16.04.2 WPLANG: fr_FR Server: Apache/2.4.18 (Ubuntu) safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 8.7M | 2M) multisite: N openssl: OpenSSL 1.1.1d  10 Sep 2019 mcrypt: N LANG: C ZipArchive::addFile: N
+0000.016 (0) Free space on disk containing Updraft's temporary directory: 189580 MB
+0000.029 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB:  (schedule: daily)
+0000.031 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.038 (0) Semaphore (fd, wpeval_options) being initialised
+0000.041 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.046 (0) Set semaphore last lock (fd) time to 2019-12-16 10:54:12
+0000.049 (0) Semaphore lock (fd) complete
+0000.057 (0) Backup run: resumption=0, nonce=1041d6c74269, file_nonce=1041d6c74269 begun at=1576493652 (0s ago), job type=backup
+0000.061 (0) Scheduling a resumption (1) after 300 seconds (1576493952) in case this run gets aborted
+0000.090 (0) Checking if we have a zip executable available
+0000.095 (0) Zip engine: ZipArchive (a.k.a. php-zip) is not available or is disabled (will use PclZip (much slower) if needed)
+0000.097 (0) Creation of backups of directories: beginning
+0000.111 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0028.540 (0) Total entities for the zip file: 1025 directories, 5883 files (0 skipped as non-modified), 106.3 MB
+0028.542 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 108824.6 KB, split: 409600 KB)
+0029.004 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0029.446 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0030.007 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0030.614 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0031.203 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0031.664 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0032.143 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0032.651 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0033.226 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0033.725 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0034.244 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 1100 files added (on-disk size: 0 KB)
+0034.709 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 1200 files added (on-disk size: 0 KB)
+0035.186 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 1300 files added (on-disk size: 0 KB)
+0035.624 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 1400 files added (on-disk size: 0 KB)
+0036.113 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 1500 files added (on-disk size: 0 KB)
+0036.595 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 1600 files added (on-disk size: 0 KB)
+0037.230 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 1700 files added (on-disk size: 0 KB)
+0038.012 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 1800 files added (on-disk size: 0 KB)
+0038.613 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 1900 files added (on-disk size: 0 KB)
+0039.139 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 2000 files added (on-disk size: 0 KB)
+0039.594 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 2100 files added (on-disk size: 0 KB)
+0040.222 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 2200 files added (on-disk size: 0 KB)
+0040.913 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 2300 files added (on-disk size: 0 KB)
+0041.777 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 2400 files added (on-disk size: 0 KB)
+0042.385 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 2500 files added (on-disk size: 0 KB)
+0042.976 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 2600 files added (on-disk size: 0 KB)
+0043.533 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 2700 files added (on-disk size: 0 KB)
+0044.161 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 2800 files added (on-disk size: 0 KB)
+0044.727 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 2900 files added (on-disk size: 0 KB)
+0045.325 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 3000 files added (on-disk size: 0 KB)
+0045.951 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 3100 files added (on-disk size: 0 KB)
+0046.503 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 3200 files added (on-disk size: 0 KB)
+0047.079 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 3300 files added (on-disk size: 0 KB)
+0047.591 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 3400 files added (on-disk size: 0 KB)
+0048.010 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 3500 files added (on-disk size: 0 KB)
+0048.518 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 3600 files added (on-disk size: 0 KB)
+0048.988 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 3700 files added (on-disk size: 0 KB)
+0049.438 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 3800 files added (on-disk size: 0 KB)
+0049.920 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 3900 files added (on-disk size: 0 KB)
+0050.335 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 4000 files added (on-disk size: 0 KB)
+0050.789 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 4100 files added (on-disk size: 0 KB)
+0051.262 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 4200 files added (on-disk size: 0 KB)
+0051.748 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 4300 files added (on-disk size: 0 KB)
+0052.268 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 4400 files added (on-disk size: 0 KB)
+0052.718 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 4500 files added (on-disk size: 0 KB)
+0053.219 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 4600 files added (on-disk size: 0 KB)
+0053.778 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 4700 files added (on-disk size: 0 KB)
+0054.243 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 4800 files added (on-disk size: 0 KB)
+0054.671 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 4900 files added (on-disk size: 0 KB)
+0055.208 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 5000 files added (on-disk size: 0 KB)
+0055.687 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 5100 files added (on-disk size: 0 KB)
+0056.269 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 5200 files added (on-disk size: 0 KB)
+0056.837 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 5300 files added (on-disk size: 0 KB)
+0057.285 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 5400 files added (on-disk size: 0 KB)
+0057.729 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 5500 files added (on-disk size: 0 KB)
+0058.229 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 5600 files added (on-disk size: 0 KB)
+0058.670 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 5700 files added (on-disk size: 0 KB)
+0059.227 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp: 5800 files added (on-disk size: 0 KB)
+0390.794 (1) Opened log file at time: Mon, 16 Dec 2019 11:00:42 +0000 on http://192.168.33.15/projetevaluation/wordpress
+0390.796 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.21 WP: 5.3 PHP: 7.4.0 (apache2handler, Linux ubuntu-xenial 4.4.0-165-generic #193-Ubuntu SMP Tue Sep 17 17:42:52 UTC 2019 x86_64) MySQL: 5.7.28-0ubuntu0.16.04.2 WPLANG: fr_FR Server: Apache/2.4.18 (Ubuntu) safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 8.8M | 2M) multisite: N openssl: OpenSSL 1.1.1d  10 Sep 2019 mcrypt: N LANG: C ZipArchive::addFile: N
+0390.799 (1) Free space on disk containing Updraft's temporary directory: 189543.2 MB
+0390.803 (1) Backup run: resumption=1, nonce=1041d6c74269, file_nonce=1041d6c74269 begun at=1576493652 (391s ago), job type=backup
+0390.806 (1) Scheduling a resumption (2) after 300 seconds (1576494343) in case this run gets aborted
+0390.812 (1) Checking if we have a zip executable available
+0390.815 (1) Zip engine: ZipArchive (a.k.a. php-zip) is not available or is disabled (will use PclZip (much slower) if needed)
+0390.817 (1) Creation of backups of directories: had begun; will resume
+0390.829 (1) Beginning creation of dump of plugins (split every: 400 MB)
+0390.848 (1) Terminate: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip.tmp exists with activity within the last 30 seconds (time_mod=1576494042, time_now=1576494043, diff=1, size=21075.7KB). This likely means that another UpdraftPlus run is at work; so we will exit.
+0390.855 (1) Rescheduling resumption 2: moving to 420 seconds from now (1576494463)
+0390.867 (1) To decrease the likelihood of overlaps, increasing resumption interval to: 300 + 120 = 420
+1043.877 (0) The time we have been running (1043.9) is approaching the resumption interval (300) - increasing resumption interval to 1074
+1044.771 (0) Created plugins zip (0) - 36782.5 KB in 1044.6 s (35.2 KB/s) (sha1: daa30c6f000e31acd8caf0572f764b2c80fdb48c, sha256: fdefc229a54113a2d2f99be17c9ad015c78e0b7b3a2ef743ddcbb34063e82dab)
+1044.790 (0) Beginning creation of dump of themes (split every: 400 MB)
+1045.945 (0) Total entities for the zip file: 72 directories, 278 files (0 skipped as non-modified), 6.5 MB
+1045.947 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 6690.4 KB, split: 409600 KB)
+1046.286 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+1046.632 (0) Zip: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+1057.291 (0) The time we have been running (1057.3) is approaching the resumption interval (1074) - increasing resumption interval to 1088
+1057.400 (0) Created themes zip (0) - 4051.2 KB in 12.6 s (321.7 KB/s) (sha1: 768dfdfc2aa37361764a81f02625a2c3abcf999a, sha256: 52d5e0ff8d30c3443fa03f7a99724848463dc35c4157b2651d1f6290afcdedff)
+1057.414 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+1057.416 (0) Looking for candidates to backup in: /var/www/html/projetevaluation/wordpress/wp-content/uploads
+1057.419 (0) finding files: 2019: adding to list (1)
+1057.420 (0) finding files: elementor: adding to list (2)
+1057.421 (0) finding files: GeoLite2-Country.mmdb: adding to list (3)
+1057.422 (0) finding files: uag-plugin: adding to list (4)
+1057.424 (0) finding files: wc-logs: adding to list (5)
+1057.425 (0) finding files: woocommerce-placeholder.png: adding to list (6)
+1057.426 (0) finding files: woocommerce_uploads: adding to list (7)
+1057.427 (0) Beginning creation of dump of uploads (split every: 400 MB)
+1057.544 (0) Total entities for the zip file: 7 directories, 24 files (0 skipped as non-modified), 11.2 MB
+1057.546 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 11491.5 KB, split: 409600 KB)
+1060.547 (0) The time we have been running (1060.5) is approaching the resumption interval (1088) - increasing resumption interval to 1091
+1060.783 (0) Created uploads zip (0) - 9493.6 KB in 3.3 s (2843.6 KB/s) (sha1: 2ad6261cf419b9262cb116d39436f83b8e8be0c9, sha256: 6e39de6c8d262d2222f30034cc86e3c7def8f0376644793365f57b0c62efe95e)
+1060.798 (0) Beginning backup of other directories found in the content directory (index: 0)
+1060.799 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+1060.801 (0) Looking for candidates to backup in: /var/www/html/projetevaluation/wordpress/wp-content
+1060.805 (0) finding files: index.php: adding to list (1)
+1060.807 (0) finding files: languages: adding to list (2)
+1060.808 (0) finding files: plugins: skipping: this is the plugins directory
+1060.809 (0) finding files: themes: skipping: this is the themes directory
+1060.811 (0) finding files: updraft: skipping: this is the updraft directory
+1060.812 (0) finding files: upgrade: skipping: excluded by options
+1060.813 (0) finding files: uploads: skipping: this is the uploads directory
+1060.919 (0) Total entities for the zip file: 3 directories, 35 files (0 skipped as non-modified), 2.4 MB
+1060.921 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 2492.6 KB, split: 409600 KB)
+1061.457 (0) The time we have been running (1061.4) is approaching the resumption interval (1091) - increasing resumption interval to 1092
+1061.489 (0) Created others zip (0) - 703.2 KB in 0.7 s (1070.9 KB/s) (sha1: ba28f231c26ac48ab1cf33bfc6d547a0e2f13de9, sha256: 877a5a4812d1333317192f872adf4a5b79920ce797f5d789f64ac56be06e5ae1)
+1061.515 (0) Saving backup status to database (elements: 8)
+1061.518 (0) Beginning creation of database dump (WordPress DB)
+1061.528 (0) Testing potential mysqldump binary: /usr/bin/mysqldump
+1061.556 (0) Binary mysqldump: error (code: 2)
+1061.590 (0) Table wpeval_options: Total expected rows (approximate): 393
+1061.612 (0) Table wpeval_options: Total rows added: 395 in 0.02 seconds
+1061.618 (0) Table wpeval_options: finishing file (backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_options.table.gz - 55.2 KB)
+1061.638 (0) Table wpeval_users: Total expected rows (approximate): 1
+1061.642 (0) Table wpeval_users: Total rows added: 1 in 0.00 seconds
+1061.646 (0) Table wpeval_users: finishing file (backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_users.table.gz - 0.6 KB)
+1061.673 (0) Table wpeval_usermeta: Total expected rows (approximate): 27
+1061.676 (0) Table wpeval_usermeta: Total rows added: 27 in 0.00 seconds
+1061.680 (0) Table wpeval_usermeta: finishing file (backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_usermeta.table.gz - 1.2 KB)
+1061.700 (0) Table wpeval_commentmeta: Total expected rows (approximate): 0
+1061.702 (0) Table wpeval_commentmeta: Total rows added: 0 in 0.00 seconds
+1061.706 (0) Table wpeval_commentmeta: finishing file (backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_commentmeta.table.gz - 0.4 KB)
+1061.735 (0) Table wpeval_comments: Total expected rows (approximate): 20
+1061.740 (0) Table wpeval_comments: Total rows added: 20 in 0.00 seconds
+1061.744 (0) Table wpeval_comments: finishing file (backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_comments.table.gz - 1 KB)
+1061.764 (0) Table wpeval_links: Total expected rows (approximate): 0
+1061.767 (0) Table wpeval_links: Total rows added: 0 in 0.00 seconds
+1061.772 (0) Table wpeval_links: finishing file (backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_links.table.gz - 0.4 KB)
+1061.792 (0) Table wpeval_postmeta: Total expected rows (approximate): 471
+1061.805 (0) Table wpeval_postmeta: Total rows added: 471 in 0.01 seconds
+1061.810 (0) Table wpeval_postmeta: finishing file (backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_postmeta.table.gz - 10 KB)
+1061.830 (0) Table wpeval_posts: Total expected rows (approximate): 83
+1061.842 (0) Table wpeval_posts: Total rows added: 83 in 0.01 seconds
+1061.848 (0) Table wpeval_posts: finishing file (backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_posts.table.gz - 11.9 KB)
+1061.868 (0) Table wpeval_term_relationships: Total expected rows (approximate): 31
+1061.871 (0) Table wpeval_term_relationships: Total rows added: 31 in 0.00 seconds
+1061.875 (0) Table wpeval_term_relationships: finishing file (backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_term_relationships.table.gz - 0.5 KB)
+1061.895 (0) Table wpeval_term_taxonomy: Total expected rows (approximate): 32
+1061.899 (0) Table wpeval_term_taxonomy: Total rows added: 32 in 0.00 seconds
+1061.903 (0) Table wpeval_term_taxonomy: finishing file (backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_term_taxonomy.table.gz - 0.7 KB)
+1061.923 (0) Table wpeval_termmeta: Total expected rows (approximate): 13
+1061.926 (0) Table wpeval_termmeta: Total rows added: 13 in 0.00 seconds
+1061.930 (0) Table wpeval_termmeta: finishing file (backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_termmeta.table.gz - 0.5 KB)
+1061.965 (0) Table wpeval_terms: Total expected rows (approximate): 32
+1061.968 (0) Table wpeval_terms: Total rows added: 32 in 0.00 seconds
+1061.972 (0) Table wpeval_terms: finishing file (backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_terms.table.gz - 0.7 KB)
+1061.992 (0) Table wpeval_wc_category_lookup: Total expected rows (approximate): 1
+1061.995 (0) Table wpeval_wc_category_lookup: Total rows added: 1 in 0.00 seconds
+1061.999 (0) Table wpeval_wc_category_lookup: finishing file (backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_wc_category_lookup.table.gz - 0.3 KB)
+1062.019 (0) Table wpeval_wc_product_meta_lookup: Total expected rows (approximate): 7
+1062.022 (0) Table wpeval_wc_product_meta_lookup: Total rows added: 7 in 0.00 seconds
+1062.026 (0) Table wpeval_wc_product_meta_lookup: finishing file (backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_wc_product_meta_lookup.table.gz - 0.6 KB)
+1062.034 (0) The time we have been running (1062) is approaching the resumption interval (1092) - increasing resumption interval to 1093
+1062.050 (0) Table wpeval_wc_tax_rate_classes: Total expected rows (approximate): 2
+1062.052 (0) Table wpeval_wc_tax_rate_classes: Total rows added: 2 in 0.00 seconds
+1062.056 (0) Table wpeval_wc_tax_rate_classes: finishing file (backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_wc_tax_rate_classes.table.gz - 0.4 KB)
+1062.077 (0) Table wpeval_woocommerce_order_itemmeta: Total expected rows (approximate): 0
+1062.079 (0) Table wpeval_woocommerce_order_itemmeta: Total rows added: 0 in 0.00 seconds
+1062.083 (0) Table wpeval_woocommerce_order_itemmeta: finishing file (backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_woocommerce_order_itemmeta.table.gz - 0.4 KB)
+1062.100 (0) Table wpeval_woocommerce_payment_tokenmeta: Total expected rows (approximate): 0
+1062.103 (0) Table wpeval_woocommerce_payment_tokenmeta: Total rows added: 0 in 0.00 seconds
+1062.107 (0) Table wpeval_woocommerce_payment_tokenmeta: finishing file (backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_woocommerce_payment_tokenmeta.table.gz - 0.4 KB)
+1062.125 (0) Table wpeval_wc_admin_note_actions: Total expected rows (approximate): 2
+1062.128 (0) Table wpeval_wc_admin_note_actions: Total rows added: 3 in 0.00 seconds
+1062.132 (0) Table wpeval_wc_admin_note_actions: finishing file (backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_wc_admin_note_actions.table.gz - 0.6 KB)
+1062.151 (0) Table wpeval_wc_admin_notes: Total expected rows (approximate): 2
+1062.154 (0) Table wpeval_wc_admin_notes: Total rows added: 3 in 0.00 seconds
+1062.157 (0) Table wpeval_wc_admin_notes: finishing file (backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_wc_admin_notes.table.gz - 0.9 KB)
+1062.177 (0) Table wpeval_wc_customer_lookup: Total expected rows (approximate): 0
+1062.179 (0) Table wpeval_wc_customer_lookup: Total rows added: 0 in 0.00 seconds
+1062.184 (0) Table wpeval_wc_customer_lookup: finishing file (backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_wc_customer_lookup.table.gz - 0.5 KB)
+1062.204 (0) Table wpeval_wc_download_log: Total expected rows (approximate): 0
+1062.206 (0) Table wpeval_wc_download_log: Total rows added: 0 in 0.00 seconds
+1062.210 (0) Table wpeval_wc_download_log: finishing file (backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_wc_download_log.table.gz - 0.4 KB)
+1062.229 (0) Table wpeval_wc_order_coupon_lookup: Total expected rows (approximate): 0
+1062.232 (0) Table wpeval_wc_order_coupon_lookup: Total rows added: 0 in 0.00 seconds
+1062.236 (0) Table wpeval_wc_order_coupon_lookup: finishing file (backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_wc_order_coupon_lookup.table.gz - 0.4 KB)
+1062.255 (0) Table wpeval_wc_order_product_lookup: Total expected rows (approximate): 0
+1062.258 (0) Table wpeval_wc_order_product_lookup: Total rows added: 0 in 0.00 seconds
+1062.262 (0) Table wpeval_wc_order_product_lookup: finishing file (backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_wc_order_product_lookup.table.gz - 0.4 KB)
+1062.282 (0) Table wpeval_wc_order_stats: Total expected rows (approximate): 0
+1062.284 (0) Table wpeval_wc_order_stats: Total rows added: 0 in 0.00 seconds
+1062.288 (0) Table wpeval_wc_order_stats: finishing file (backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_wc_order_stats.table.gz - 0.5 KB)
+1062.309 (0) Table wpeval_wc_order_tax_lookup: Total expected rows (approximate): 0
+1062.311 (0) Table wpeval_wc_order_tax_lookup: Total rows added: 0 in 0.00 seconds
+1062.315 (0) Table wpeval_wc_order_tax_lookup: finishing file (backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_wc_order_tax_lookup.table.gz - 0.4 KB)
+1062.335 (0) Table wpeval_wc_webhooks: Total expected rows (approximate): 0
+1062.338 (0) Table wpeval_wc_webhooks: Total rows added: 0 in 0.00 seconds
+1062.342 (0) Table wpeval_wc_webhooks: finishing file (backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_wc_webhooks.table.gz - 0.5 KB)
+1062.362 (0) Table wpeval_woocommerce_api_keys: Total expected rows (approximate): 0
+1062.364 (0) Table wpeval_woocommerce_api_keys: Total rows added: 0 in 0.00 seconds
+1062.369 (0) Table wpeval_woocommerce_api_keys: finishing file (backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_woocommerce_api_keys.table.gz - 0.4 KB)
+1062.392 (0) Table wpeval_woocommerce_attribute_taxonomies: Total expected rows (approximate): 2
+1062.395 (0) Table wpeval_woocommerce_attribute_taxonomies: Total rows added: 2 in 0.00 seconds
+1062.399 (0) Table wpeval_woocommerce_attribute_taxonomies: finishing file (backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_woocommerce_attribute_taxonomies.table.gz - 0.5 KB)
+1062.420 (0) Table wpeval_woocommerce_downloadable_product_permissions: Total expected rows (approximate): 0
+1062.423 (0) Table wpeval_woocommerce_downloadable_product_permissions: Total rows added: 0 in 0.00 seconds
+1062.427 (0) Table wpeval_woocommerce_downloadable_product_permissions: finishing file (backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_woocommerce_downloadable_product_permissions.table.gz - 0.5 KB)
+1062.448 (0) Table wpeval_woocommerce_log: Total expected rows (approximate): 0
+1062.450 (0) Table wpeval_woocommerce_log: Total rows added: 0 in 0.00 seconds
+1062.454 (0) Table wpeval_woocommerce_log: finishing file (backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_woocommerce_log.table.gz - 0.4 KB)
+1062.474 (0) Table wpeval_woocommerce_order_items: Total expected rows (approximate): 0
+1062.477 (0) Table wpeval_woocommerce_order_items: Total rows added: 0 in 0.00 seconds
+1062.481 (0) Table wpeval_woocommerce_order_items: finishing file (backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_woocommerce_order_items.table.gz - 0.4 KB)
+1062.501 (0) Table wpeval_woocommerce_payment_tokens: Total expected rows (approximate): 0
+1062.503 (0) Table wpeval_woocommerce_payment_tokens: Total rows added: 0 in 0.00 seconds
+1062.508 (0) Table wpeval_woocommerce_payment_tokens: finishing file (backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_woocommerce_payment_tokens.table.gz - 0.4 KB)
+1062.528 (0) Table wpeval_woocommerce_sessions: Total expected rows (approximate): 1
+1062.530 (0) Table wpeval_woocommerce_sessions: Total rows added: 1 in 0.00 seconds
+1062.535 (0) Table wpeval_woocommerce_sessions: finishing file (backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_woocommerce_sessions.table.gz - 0.8 KB)
+1062.555 (0) Table wpeval_woocommerce_shipping_zone_locations: Total expected rows (approximate): 1
+1062.558 (0) Table wpeval_woocommerce_shipping_zone_locations: Total rows added: 1 in 0.00 seconds
+1062.562 (0) Table wpeval_woocommerce_shipping_zone_locations: finishing file (backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_woocommerce_shipping_zone_locations.table.gz - 0.4 KB)
+1062.582 (0) Table wpeval_woocommerce_shipping_zone_methods: Total expected rows (approximate): 1
+1062.585 (0) Table wpeval_woocommerce_shipping_zone_methods: Total rows added: 1 in 0.00 seconds
+1062.589 (0) Table wpeval_woocommerce_shipping_zone_methods: finishing file (backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_woocommerce_shipping_zone_methods.table.gz - 0.4 KB)
+1062.611 (0) Table wpeval_woocommerce_shipping_zones: Total expected rows (approximate): 1
+1062.614 (0) Table wpeval_woocommerce_shipping_zones: Total rows added: 1 in 0.00 seconds
+1062.618 (0) Table wpeval_woocommerce_shipping_zones: finishing file (backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_woocommerce_shipping_zones.table.gz - 0.4 KB)
+1062.638 (0) Table wpeval_woocommerce_tax_rate_locations: Total expected rows (approximate): 0
+1062.640 (0) Table wpeval_woocommerce_tax_rate_locations: Total rows added: 0 in 0.00 seconds
+1062.644 (0) Table wpeval_woocommerce_tax_rate_locations: finishing file (backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_woocommerce_tax_rate_locations.table.gz - 0.4 KB)
+1062.665 (0) Table wpeval_woocommerce_tax_rates: Total expected rows (approximate): 0
+1062.667 (0) Table wpeval_woocommerce_tax_rates: Total rows added: 0 in 0.00 seconds
+1062.672 (0) Table wpeval_woocommerce_tax_rates: finishing file (backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_woocommerce_tax_rates.table.gz - 0.4 KB)
+1062.693 (0) backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_options.table.gz (1/38): adding to final database dump
+1062.712 (0) backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_users.table.gz (2/38): adding to final database dump
+1062.718 (0) backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_usermeta.table.gz (3/38): adding to final database dump
+1062.725 (0) backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_commentmeta.table.gz (4/38): adding to final database dump
+1062.731 (0) backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_comments.table.gz (5/38): adding to final database dump
+1062.738 (0) backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_links.table.gz (6/38): adding to final database dump
+1062.744 (0) backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_postmeta.table.gz (7/38): adding to final database dump
+1062.754 (0) backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_posts.table.gz (8/38): adding to final database dump
+1062.762 (0) backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_term_relationships.table.gz (9/38): adding to final database dump
+1062.768 (0) backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_term_taxonomy.table.gz (10/38): adding to final database dump
+1062.775 (0) backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_termmeta.table.gz (11/38): adding to final database dump
+1062.781 (0) backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_terms.table.gz (12/38): adding to final database dump
+1062.787 (0) backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_wc_category_lookup.table.gz (13/38): adding to final database dump
+1062.793 (0) backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_wc_product_meta_lookup.table.gz (14/38): adding to final database dump
+1062.799 (0) backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_wc_tax_rate_classes.table.gz (15/38): adding to final database dump
+1062.806 (0) backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_woocommerce_order_itemmeta.table.gz (16/38): adding to final database dump
+1062.826 (0) backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_woocommerce_payment_tokenmeta.table.gz (17/38): adding to final database dump
+1062.832 (0) backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_wc_admin_note_actions.table.gz (18/38): adding to final database dump
+1062.838 (0) backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_wc_admin_notes.table.gz (19/38): adding to final database dump
+1062.844 (0) backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_wc_customer_lookup.table.gz (20/38): adding to final database dump
+1062.850 (0) backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_wc_download_log.table.gz (21/38): adding to final database dump
+1062.855 (0) backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_wc_order_coupon_lookup.table.gz (22/38): adding to final database dump
+1062.861 (0) backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_wc_order_product_lookup.table.gz (23/38): adding to final database dump
+1062.868 (0) backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_wc_order_stats.table.gz (24/38): adding to final database dump
+1062.874 (0) backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_wc_order_tax_lookup.table.gz (25/38): adding to final database dump
+1062.880 (0) backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_wc_webhooks.table.gz (26/38): adding to final database dump
+1062.886 (0) backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_woocommerce_api_keys.table.gz (27/38): adding to final database dump
+1062.892 (0) backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_woocommerce_attribute_taxonomies.table.gz (28/38): adding to final database dump
+1062.898 (0) backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_woocommerce_downloadable_product_permissions.table.gz (29/38): adding to final database dump
+1062.903 (0) backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_woocommerce_log.table.gz (30/38): adding to final database dump
+1062.909 (0) backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_woocommerce_order_items.table.gz (31/38): adding to final database dump
+1062.915 (0) backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_woocommerce_payment_tokens.table.gz (32/38): adding to final database dump
+1062.921 (0) backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_woocommerce_sessions.table.gz (33/38): adding to final database dump
+1062.927 (0) backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_woocommerce_shipping_zone_locations.table.gz (34/38): adding to final database dump
+1062.933 (0) backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_woocommerce_shipping_zone_methods.table.gz (35/38): adding to final database dump
+1062.939 (0) backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_woocommerce_shipping_zones.table.gz (36/38): adding to final database dump
+1062.944 (0) backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_woocommerce_tax_rate_locations.table.gz (37/38): adding to final database dump
+1062.950 (0) backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db-table-wpeval_woocommerce_tax_rates.table.gz (38/38): adding to final database dump
+1062.958 (0) backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db.gz: finished writing out complete database file (80 KB)
+1063.041 (0) Total database tables backed up: 38 (backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db.gz, size: 86285, sha1: 58a5a36f969fc6182243120a6be08a05ac7583c3, sha256: 4148a37600c4ea190a8b6e85021d5a7757411c79857b5754513d0c2b6fb7d49f)
+1063.052 (0) backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+1063.055 (0) backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+1063.058 (0) backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+1063.061 (0) backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-others.zip: others: This file has not yet been successfully uploaded: will queue
+1063.065 (0) backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db.gz: db: This file has not yet been successfully uploaded: will queue
+1063.066 (0) Saving backup history. Total backup size: 49.9 MB
+1063.070 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+1063.074 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+1063.075 (0) No remote despatch: user chose no remote backup service
+1063.077 (0) Recording as successfully uploaded: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-plugins.zip
+1063.079 (0) Recording as successfully uploaded: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-themes.zip
+1063.082 (0) Recording as successfully uploaded: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-uploads.zip
+1063.085 (0) Recording as successfully uploaded: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-others.zip
+1063.088 (0) Recording as successfully uploaded: backup_2019-12-16-1154_Chaussette_de_noel_1041d6c74269-db.gz
+1063.092 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+1063.094 (0) Number of backup sets in history: 1; groups (db): 1
+1063.095 (0) Examining (for databases) backup set with group_id=0, nonce=1041d6c74269, datestamp=1576493652 (Dec 16 2019 10:54:12)
+1063.097 (0) This backup set is the backup set just made, so will not be deleted.
+1063.097 (0) Number of backup sets in history: 1; groups (files): 1
+1063.098 (0) Examining (for files) backup set with nonce=1041d6c74269, datestamp=1576493652 (Dec 16 2019 10:54:12)
+1063.099 (0) This backup set is the backup set just made, so will not be deleted.
+1063.100 (0) This backup set is the backup set just made, so will not be deleted.
+1063.101 (0) This backup set is the backup set just made, so will not be deleted.
+1063.102 (0) This backup set is the backup set just made, so will not be deleted.
+1063.102 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+1063.104 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+1063.107 (0) Resume backup (1041d6c74269, 0): finish run
+1063.111 (0) Decremented the semaphore (fd) by 1
+1063.113 (0) Semaphore (fd) unlocked
+1063.114 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+1063.119 (0) Fetching RSS news feed
+1063.206 (0) Fetched RSS news feed; result is a: SimplePie
+1063.629 (0) Sending email ('Files and database (Full backup)') report (attachments: 0, size: 0 KB) to: s.bou...
+1063.638 (0) The backup apparently succeeded and is now complete
